@@ -15,4 +15,4 @@ fs.watch(filename, function(){
 	});
 });
 
-console.log("Now watching " + filename + "for change").
+console.log("Now watching " + filename + "for change");
